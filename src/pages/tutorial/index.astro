@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Tutorial.astro';
+import Tutorial from '../../components/Onboarding.jsx';
+
+---
+<Layout>
+    <div>
+        <Tutorial client:load />
+    </div>
+</Layout>
+<style is:global>
+    @keyframes float {
+      0% {
+        transform: translateY(0) translateX(0);
+      }
+      50% {
+        transform: translateY(-20px) translateX(10px);
+      }
+      100% {
+        transform: translateY(0) translateX(0);
+      }
+    }
+  </style>
