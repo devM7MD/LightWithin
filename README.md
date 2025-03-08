@@ -34,8 +34,8 @@ LightWithin is built using modern web technologies:
 
 ### Prerequisites
 
-- Node.js (v14.0.0 or higher)
-- npm (v7.0.0 or higher)
+- Node.js (v18.0.0 or higher)
+- npm (v9.0.0 or higher)
 
 ### Installation
 
