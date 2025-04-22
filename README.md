@@ -67,8 +67,8 @@ This project was specifically created for the iSchool Innovation competition.
 
 ## 👥 Team
 
-- **Concept & Idea**: Maryam Muhammad Abdul Latif
-- **Development & Implementation**: Muhammad Abbas Al-Shami ([@devM7MD](https://github.com/devM7MD))
+- **Concept & Idea**: Maryam Mohamed Abdul Latif
+- **Development & Implementation**: Mohamed Abbas Elshamy ([@devM7MD](https://github.com/devM7MD))
 
 ## 🤝 Contributing
 
