@@ -268,7 +268,7 @@ const Login = () => {
             
             <div className="text-center mt-6">
               <p className="text-sm" style={{ color: colors.teal }}>
-                Don't have an account? <a href="/auth/register" className="font-medium" style={{ color: colors.blue }}>Sign up</a>
+                Don&apos;t have an account? <a href="/auth/register" className="font-medium" style={{ color: colors.blue }}>Sign up</a>
               </p>
             </div>
           </motion.form>
